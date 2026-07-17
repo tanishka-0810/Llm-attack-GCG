@@ -1,4 +1,3 @@
-# Llm-attack-GCG
 # GCG on TinyLlama — Standalone Google Colab Notebook
 
 ## Overview
